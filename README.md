@@ -1,6 +1,6 @@
 # DocNLC
 
-[Paper](https://drive.google.com/file/d/1F2K9PFLcK77QWtOweXbkV5SQKwxwUTV2/view?usp=sharing](https://ojs.aaai.org/index.php/AAAI/article/view/28366)) 
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28366)
 # Data Preparation
 The structure of the training data is shown below:
 
