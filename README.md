@@ -18,7 +18,10 @@ The structure of the training data is shown below:
 
 │   │   ├── WithBack/
 
-
+To generate the training dataset, run:
+```python
+python generate_training_dataset.py
+```
 
 ## Acknowledge
 Our work is based on the following theoretical works:
