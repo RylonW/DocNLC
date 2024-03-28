@@ -1,6 +1,24 @@
 # DocNLC
 
 [Paper](https://drive.google.com/file/d/1F2K9PFLcK77QWtOweXbkV5SQKwxwUTV2/view?usp=sharing) 
+# Data Preparation
+The structure of the training data is shown below:
+
+├── Hybrid/
+
+│   ├── Degraded/
+
+│   │   ├── Blur/
+
+│   │   ├── Noise/
+
+│   │   ├── Shadow/
+
+│   │   ├── Watermark/
+
+│   │   ├── WithBack/
+
+
 
 ## Acknowledge
 Our work is based on the following theoretical works:
