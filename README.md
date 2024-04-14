@@ -1,6 +1,5 @@
 # DocNLC
-
-[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28366)
+This repo is the official implementation of "[DocNLC: A Document Image Enhancement Framework with Normalized and Latent Contrastive Representation for Multiple Degradations](https://doi.org/10.1609/aaai.v38i6.28366)" (AAAI 2024)
 # Data Preparation
 The structure of the training data is shown below:
 
