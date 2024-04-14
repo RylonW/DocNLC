@@ -23,6 +23,12 @@ To generate the training dataset, run:
 python generate_training_dataset.py
 ```
 Or download from: [Pre-training Dataset](https://1drv.ms/u/s!Aj6X7kgt6NgZjz4ZCAxiVQehsyl6?e=vSTrko) (21.5G)
+
+# Model Zoo
+| Pretrained Model | Pretrained Model |
+| :-: | :-: |
+| Asymmetric Comparison | [One Drive](https://1drv.ms/u/s!Aj6X7kgt6NgZj0E2cTAuRYDiExC0?e=AldOcL)|
+| Symmetric Comparison | [One Drive](https://1drv.ms/u/s!Aj6X7kgt6NgZj0C8umOSrs4CIKtv?e=jYNFca)|
 ## Acknowledge
 Our work is based on the following theoretical works:
 - [Barlow Twins](https://proceedings.mlr.press/v139/zbontar21a.html)
