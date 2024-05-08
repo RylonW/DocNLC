@@ -25,9 +25,11 @@ The structure of the training data is shown below:
 
 To generate the training dataset, run:
 ```python
-python generate_training_dataset.py
+python generate_training_dataset.py (Coming soon)
 ```
 Or download from: [Pre-training Dataset](https://1drv.ms/u/s!Aj6X7kgt6NgZjz4ZCAxiVQehsyl6?e=vSTrko) (21.5G)
+# Train & Test
+We control our hyper parameters such as batch size or learning rate by exclusive yaml files. They are saved in option folder. For pretraining, finetuning and testing, you should specify a corresponding yaml file. We have provided an example file in option folder.
 
 # Model Zoo
 | Pretrained Model | Pretrained Model |
