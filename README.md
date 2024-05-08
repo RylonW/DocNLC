@@ -1,5 +1,11 @@
 # DocNLC
 This repo is the official implementation of "[DocNLC: A Document Image Enhancement Framework with Normalized and Latent Contrastive Representation for Multiple Degradations](https://doi.org/10.1609/aaai.v38i6.28366)" (AAAI 2024)
+# Requirements
+torch == 1.7.1+cu101 
+
+numpy == 1.19.2
+
+opencv-python == 4.5.1.48
 # Data Preparation
 The structure of the training data is shown below:
 
