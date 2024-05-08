@@ -1,5 +1,8 @@
 # DocNLC
 This repo is the official implementation of "[DocNLC: A Document Image Enhancement Framework with Normalized and Latent Contrastive Representation for Multiple Degradations](https://doi.org/10.1609/aaai.v38i6.28366)" (AAAI 2024)
+
+![image](https://github.com/RylonW/DocNLC/assets/44424589/88777402-8196-4a18-8c9c-022eb27b552a)
+
 # Requirements
 torch == 1.7.1+cu101 
 
