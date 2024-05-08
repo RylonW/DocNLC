@@ -20,7 +20,7 @@ from models import create_model
 def main():
     #### options
     parser = argparse.ArgumentParser()
-    parser.add_argument('--opt', type=str, default='/home/wrl/DocNLC/options/train/train_Enhance_MSEC_multi.yml',
+    parser.add_argument('--opt', type=str, default='./options/pretrain.yml',
                         help='Path to option YAML file.')
     parser.add_argument('--launcher', choices=['none', 'pytorch'], default='pytorch', help='job launcher')
     parser.add_argument('--local_rank', type=int, default=0)
