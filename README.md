@@ -39,6 +39,8 @@ We control our hyper-parameters, such as batch size or learning rate, through ex
 ## Test
 1. Edit ./options/test.yml
 2. ```python test.py```
+   
+Note that the terminal output during the PSNR test is meaningless. In the next step we will evaluate the output images using the standard skimage.metrics.
 
 # Model Zoo
 | Pretrained Model | Pretrained Model |
