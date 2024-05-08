@@ -34,8 +34,11 @@ We control our hyper-parameters, such as batch size or learning rate, through ex
 1. Edit ./options/pretrain.yml
 2. ```python pretrain.py```
 ## Fine-tune
-
+1. Edit ./options/finetune.yml
+2. ```python finetune.py```
 ## Test
+1. Edit ./options/test.yml
+2. ```python test.py```
 
 # Model Zoo
 | Pretrained Model | Pretrained Model |
