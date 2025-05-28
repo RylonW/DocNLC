@@ -28,7 +28,7 @@ The structure of the training data is shown below:
 
 To generate the training dataset, run:
 ```bash
-python generate_training_dataset.py (Coming soon)
+python generate_dataset.py
 ```
 Or download from: [Pre-training Dataset](https://1drv.ms/u/s!Aj6X7kgt6NgZjz4ZCAxiVQehsyl6?e=vSTrko) (21.5G)
 # Train & Test
