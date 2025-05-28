@@ -26,6 +26,8 @@ The structure of the training data is shown below:
 
 │   │   ├── WithBack/
 
+You should download [background texures and shadow masks](https://1drv.ms/f/c/19d8e82d48ee973e/EvYcSa6uHV9HipaNI17YUo0B61GS1DnKJluMJICb8vmyLQ?e=1yQf9s) first. 
+
 To generate the training dataset, run:
 ```bash
 python generate_dataset.py
